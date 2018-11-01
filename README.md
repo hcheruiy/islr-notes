@@ -1,0 +1,1 @@
+ISLR  is one of the best books for introductory concepts to Statistics and Data Science. This repo has the notes I made while going through the text, as well as a reproduction of all the graphs in the text. Enjoy.
